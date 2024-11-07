@@ -1,1 +1,1 @@
-uvicorn policy_rag.asgi:application --host 192.168.1.119 --port 8000
+uvicorn policy_rag.asgi:application --host 192.168.1.118 --port 8000
